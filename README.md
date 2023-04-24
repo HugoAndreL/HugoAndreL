@@ -51,7 +51,7 @@
       <li>
         <div>
           <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Logo da Udemy" width=100 />
-          <p>Um curso de <b>Manutenção de Computadores e equipamentos de informática</b> na <a href="https://www.udemy.com/course/frccursodemanuntencao/" target="_blank">Udemy</p>
+          <p>Um curso de <b>Manutenção de Computadores e equipamentos de informática</b> na <a href="https://www.udemy.com" target="_blank">Udemy</p>
         </div>
       </li>
       <li>
@@ -62,6 +62,7 @@
   <p>E já tenho concluido:</p>
   <ul>
     <li>
+      <img src="https://www.cruzeirodosul.edu.br/wp-content/uploads/2019/10/favicom_cruzeiro_57X57.png" alt="Logo da Cruzeiro do Sul" width=100 />
       <p>Um curso <b>Superior de Analise e Desenvolvimento de Sistema</b> na <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Universidade Cruzeiro do Sul</p>
     </li>
    </ul>
