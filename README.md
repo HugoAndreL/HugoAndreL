@@ -50,7 +50,7 @@
       </li>
       <li>
         <div>
-          <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Logo da Udemy" />
+          <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Logo da Udemy" width=100 />
           <p>Um curso de <b>Manutenção de Computadores e equipamentos de informática</b> na <a href="https://www.udemy.com/course/frccursodemanuntencao/" target="_blank">Udemy</p>
         </div>
       </li>
