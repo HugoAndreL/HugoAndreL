@@ -62,7 +62,6 @@
   <p>E já tenho concluido:</p>
   <ul>
     <li>
-      <img src="https://www.cruzeirodosul.edu.br/wp-content/uploads/2019/10/favicom_cruzeiro.png" alt="Logo da Cruzeiro do Sul" width=100 />
       <p>Um curso <b>Superior de Analise e Desenvolvimento de Sistema</b> na <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Universidade Cruzeiro do Sul</p>
     </li>
    </ul>
