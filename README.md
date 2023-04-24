@@ -44,14 +44,14 @@
    <ul>
      <li>
        <div>
-          <img src="https://recodepro.org.br/wp-content/uploads/2022/01/recode_pro-logo-1.svg" alt="Logo da Recode PRO" width=100 />
-          <p>Um curso <b>Técnico de Progamador Fullstack</b> na <a href="https://recodepro.org.br/" target="_blank">Recode PRO</a><p>
-        </div>
-     </li>
-     <li>
-       <div>
           <img src="https://www.sp.senai.br/images/senai.svg" alt="Logo do Senai" width=100 />
-          <p>Um curso <b>Técnico de Eletromêcanica</b> no <a href="https://www.sp.senai.br/" target="_blank">SENAI<a><p>
+          <p>Um curso de <b>Técnico de Eletromêcanica</b> no <a href="https://www.sp.senai.br/" target="_blank">SENAI<a><p>
+        </div>
+      </li>
+      <li>
+        <div>
+          <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Logo da Udemy" />
+          <p>Um curso de <b>Manutenção de Computadores e equipamentos de informática</b> na <a href="https://www.udemy.com/course/frccursodemanuntencao/" target="_blank">Udemy</p>
         </div>
       </li>
       <li>
