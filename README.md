@@ -45,24 +45,25 @@
      <li>
        <div>
           <img src="https://www.sp.senai.br/images/senai.svg" alt="Logo do Senai" width=100 />
-          <p>Um curso de <b>Técnico de Eletromêcanica</b> no <a href="https://www.sp.senai.br/" target="_blank">SENAI<a><p>
+          <p>Um curso de <b>Técnico de Eletromêcanica</b> no <a href="https://www.sp.senai.br/" target="_blank">SENAI<a>;<p>
         </div>
       </li>
       <li>
         <div>
-          <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Logo da Udemy" width=100 />
-          <p>Um curso de <b>Manutenção de Computadores e equipamentos de informática</b> na <a href="https://www.udemy.com" target="_blank">Udemy</p>
+          <h4>Udemy</h4>
+          <p>Um curso de <b>Manutenção de Computadores e equipamentos de informática</b> na <a href="https://www.udemy.com" target="_blank">Udemy</a>;</p>
         </div>
       </li>
       <li>
-        <p>E algums outros cursos da <a href="https://cursos.alura.com.br/" target="_blank">Alura</a></p>
+        <p>E algums outros cursos da <a href="https://cursos.alura.com.br/" target="_blank">Alura</a>;</p>
       </li>
    </ul>
    
   <p>E já tenho concluido:</p>
   <ul>
     <li>
-      <p>Um curso <b>Superior de Analise e Desenvolvimento de Sistema</b> na <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Universidade Cruzeiro do Sul</p>
+      <p>Um curso <b>Superior de Analise e Desenvolvimento de Sistema</b> na <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Universidade Cruzeiro do Sul;</p>
+      <p>E outros cursos.</p>
     </li>
    </ul>
 </div>
