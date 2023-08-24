@@ -1,69 +1,77 @@
-## Bem-vindo(a) ao meu perfil: HugoAndreL 😁
-<div>
-  
-  <a href="https://github.com/HugoAndreL" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HugoAndreL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAndreL&layout=compact&langs_count=6&theme=tokyonight"/>
-  
+<div class="center">
+  <h1 align="center">
+    <img align="center" src="https://i.giphy.com/media/gM5qFksULw54NMWyry/giphy.webp" width="80">
+    Hello, I'm Hugo André and I work with technology
+    <img align="center" src="https://i.giphy.com/media/XbZ1FZ4xtzDKE/giphy.webp" width="80">
+  </h1>
 </div>
-
-<div style="display: inline_block"><br>
-  
-  ### Neste repositório temos projetos feitos em:
-  
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  Ou
-  <img align="center" alt=".Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />   
-  Ou
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-          
+<div align="center">
+  <img src="https://i.giphy.com/media/nz8C1L8zbDH3muXydX/giphy.webp" width="300" />
 </div>
- 
- <br>
- 
- ### Pra conteúdo sobre programação me segue nas redes abaixo!
- 
 <div>
-  
- <a href="https://instagram.com/hugoandrelucena/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href="https://www.linkedin.com/in/hugo-andré-lucena-968a42207" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  ![Snake animation](https://github.com/HugoAndreL/HugoAndreL/blob/output/github-contribution-grid-snake.svg)
-
+  <h2>📄 PCD MEDICAL REPORT:</h2>
+  <a href="https://1drv.ms/b/s!ArdSEuakst-UmvAm2WB6cg7UxjuRqg?e=uQssLA" target="_blank">Click Here for PCD Medical Report
 </div>
-
 <div>
-  
-  ## Sobre Mim
-  ### Olá meu nome é <b>Hugo André</b>
-
-  <p>Estou cursando:</p>
-   <ul>
-     <li>
-       <div>
-          <img src="https://www.sp.senai.br/images/senai.svg" alt="Logo do Senai" width=100 />
-          <p>Um curso de <b>Técnico de Eletromêcanica</b> no <a href="https://www.sp.senai.br/" target="_blank">SENAI<a>;<p>
-        </div>
-      </li>
-      <li>
-        <div>
-          <h4>Udemy</h4>
-          <p>Um curso de <b>Manutenção de Computadores e equipamentos de informática</b> na <a href="https://www.udemy.com" target="_blank">Udemy</a>;</p>
-        </div>
-      </li>
-      <li>
-        <p>E algums outros cursos da <a href="https://cursos.alura.com.br/" target="_blank">Alura</a>;</p>
-      </li>
-   </ul>
-   
-  <p>E já tenho concluido:</p>
+  <h2>🌐 Social:</h2>
+  <a href="https://instagram.com/hugoandrelucena/" target=_blank>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5511930114879" target="_blank"> 
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://instagram.com/hugoandrelucena/" target=_blank>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" >
+  </a>
+  <a href="https://pt.stackoverflow.com/users/260334/hugo-andr%c3%a9" target="_blank">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+</div>
+<div>
+  <h2>🎓 Studying:</h2>
   <ul>
     <li>
-      <p>Um curso <b>Superior de Analise e Desenvolvimento de Sistema</b> na <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Universidade Cruzeiro do Sul;</p>
-      <p>E outros cursos.</p>
+      <p>Superior in Systems Analysis and Development<p>
+      <p>
+        <a href="https://www.cruzeirodosul.edu.br/" target="_blank">
+          <img align="center" src="https://logospng.org/download/cruzeiro-do-sul/logo-cruzeiro-do-sul-estrela-1024.png" width="50" height="50" />
+          Universidade Cruzeiro do Sul
+        </a>
+        <p> ✅Completed 02/21 to 12/23</p>
+      </p>
+      <p>
+        And other courses.
+        <a href="https://www.linkedin.com/in/hugo-andr%C3%A9-lucena-968a42207/details/certifications/" target="_blank">
+          Click here to view more courses.
+        </a>
+      </p>
     </li>
    </ul>
+</div>
+<div>
+  <h3>In this repository we have projects made in:</h3>
+  <ul>
+    <li>
+      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    </li>
+    <li>
+      <img  align="center" alt=".NET 5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />5
+    </li>
+    <li>
+      <img  align="center" alt=".NET 6" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />6
+    </li>
+     <li>
+      <img  align="center" alt=".NET 7" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />7
+    </li>
+    <li>
+      <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+    </li>
+  </ul>
+</div>
+<div align="center">
+  <h2>Github Stats:</h2>
+  <a href="https://github.com/HugoAndreL" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HugoAndreL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAndreL&layout=compact&langs_count=6&theme=dracula" />
 </div>
