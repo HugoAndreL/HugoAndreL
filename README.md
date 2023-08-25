@@ -70,8 +70,8 @@
   </ul>
 </div>
 <div align="center">
-  <h2>Github Stats:</h2>
+  <h2>📊 Github Stats:</h2>
   <a href="https://github.com/HugoAndreL" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HugoAndreL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAndreL&layout=compact&langs_count=6&theme=dracula" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=HugoAndreL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact&rank_icon=github" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAndreL&theme=dracula&langs_count=6&layout=compact" alt="Most usage language" />
 </div>
