@@ -71,10 +71,10 @@
 </div>
 <div>
   <h2 align="center">🗃️ Meus repositórios mais recentes</h2>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=HugoAndreL)](https://github.com/HugoAndreL/HugoAndreL)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=PDV_API)](https://github.com/HugoAndreL/PDV_API)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=CastleDecks)](https://github.com/HugoAndreL/CastleDecks)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=Filmes_Api)](https://github.com/HugoAndreL/Filmes_Api)
+  [![Readme Card](https://github-readme-stats.vercel.app/?username=HugoAndreL&repo=HugoAndreL)](https://github.com/HugoAndreL/HugoAndreL)
+  [![Readme Card](https://github-readme-stats.vercel.app/?username=HugoAndreL&repo=PDV_API)](https://github.com/HugoAndreL/PDV_API)
+  [![Readme Card](https://github-readme-stats.vercel.app/?username=HugoAndreL&repo=CastleDecks)](https://github.com/HugoAndreL/CastleDecks)
+  [![Readme Card](https://github-readme-stats.vercel.app/?username=HugoAndreL&repo=Filmes_Api)](https://github.com/HugoAndreL/Filmes_Api)
 </div>
 <div align="center">
   <h2>📊 Github Stats:</h2>
