@@ -1,19 +1,26 @@
-<div class="center">
-  <h1 align="center">
-    <img align="center" src="https://i.giphy.com/media/gM5qFksULw54NMWyry/giphy.webp" width="80">
-    Hello, I'm Hugo André and I work with technology
-    <img align="center" src="https://i.giphy.com/media/XbZ1FZ4xtzDKE/giphy.webp" width="80">
+<div>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=708090&section=header" />
+</div>
+<div align="center">
+  <h1>
+    <img src="https://i.giphy.com/media/gM5qFksULw54NMWyry/giphy.webp" width="160">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&width=600&height=100&lines=Hello%2C+I'm+Hugo+Andr%C3%A9;and+I+work+with+technology" alt="Typing SVG" /></a>
+    <img src="https://i.giphy.com/media/XbZ1FZ4xtzDKE/giphy.webp" width="160">
   </h1>
 </div>
 <div align="center">
-  <img src="https://i.giphy.com/media/nz8C1L8zbDH3muXydX/giphy.webp" width="300" />
+  <img src="https://i.giphy.com/media/nz8C1L8zbDH3muXydX/giphy.webp" width="350" />
 </div>
 <div>
-  <h2>📄 PCD MEDICAL REPORT:</h2>
+  <h2>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=%F0%9F%93%84+PCD+MEDICAL+REPORT%3A" alt="Typing SVG" /></a>
+  </h2>
   <a href="https://1drv.ms/b/s!ArdSEuakst-UmvAm2WB6cg7UxjuRqg?e=uQssLA" target="_blank">Click Here for PCD Medical Report
 </div>
 <div>
-  <h2>🌐 Social:</h2>
+  <h2>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=Social+%F0%9F%8C%90" alt="Typing SVG" /></a>
+  </h2>
   <a href="https://instagram.com/hugoandrelucena/" target=_blank>
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
@@ -27,7 +34,9 @@
   </a>
 </div>
 <div>
-  <h2>🎓 Studying:</h2>
+  <h2>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=%F0%9F%8E%93+Studying%3A" alt="Typing SVG" /></a>
+  </h2>
   <ul>
     <li>
       <p>Superior in Systems Analysis and Development<p>
@@ -69,16 +78,25 @@
     </li>
   </ul>
 </div>
-<div>
-  <h2 align="center">🗃️ Meus repositórios mais recentes</h2>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=HugoAndreL)](https://github.com/HugoAndreL/HugoAndreL)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=PDV_API)](https://github.com/HugoAndreL/PDV_API)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=CastleDecks)](https://github.com/HugoAndreL/CastleDecks)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=Filmes_Api)](https://github.com/HugoAndreL/Filmes_Api)
+<div align="center">
+  <h2>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%97%83%EF%B8%8F+Latest+repositories" alt="Typing SVG" /></a>
+  </h2>
+  [![HugoAndreL](https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=HugoAndreL&theme=react)](https://github.com/HugoAndreL/HugoAndreL)
+  [![PDV_API](https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=PDV_API&theme=dracula)](https://github.com/HugoAndreL/PDV_API)
+  [![CastleDecks](https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=CastleDecks&theme=dracula)](https://github.com/HugoAndreL/CastleDecks)
+  <a href="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=Filmes_Api&theme=dracula">
+    <img src="https://github.com/HugoAndreL/Filmes_Api" alt="Filmes_Api" />
+  </a>
 </div>
 <div align="center">
-  <h2>📊 Github Stats:</h2>
+  <h2>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%93%8A+Github+Stats%3A" alt="Typing SVG" /></a>
+  </h2>
   <a href="https://github.com/HugoAndreL" />
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=HugoAndreL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact&rank_icon=github" />
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAndreL&theme=dracula&langs_count=6&layout=compact" alt="Most usage language" />
+</div>
+<div>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=708090&section=footer" />
 </div>
