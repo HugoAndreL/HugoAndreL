@@ -1,5 +1,5 @@
 <div>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=708090&section=header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=708090&section=header" />
 </div>
 <div align="center">
   <h1>
@@ -76,17 +76,29 @@
     <li>
       <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
     </li>
+    <li>
+      <img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+    </li>
   </ul>
 </div>
 <div align="center">
   <h2>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%97%83%EF%B8%8F+Latest+repositories" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%97%83%EF%B8%8F+Latest+repositories" alt="Typing SVG" />
+    </a>
   </h2>
-  [![HugoAndreL](https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=HugoAndreL&theme=react)](https://github.com/HugoAndreL/HugoAndreL)
-  [![PDV_API](https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=PDV_API&theme=dracula)](https://github.com/HugoAndreL/PDV_API)
-  [![CastleDecks](https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=CastleDecks&theme=dracula)](https://github.com/HugoAndreL/CastleDecks)
-  <a href="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=Filmes_Api&theme=dracula">
-    <img src="https://github.com/HugoAndreL/Filmes_Api" alt="Filmes_Api" />
+  
+  <a href="https://github.com/HugoAndreL/HugoAndreL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=HugoAndreL&theme=dracula" alt="HugoAndreL" />
+  </a>
+  <a href="https://github.com/HugoAndreL/PDV_API">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=PDV_API&theme=dracula" alt="PDV_API" />
+  </a>
+  <br />
+  <a href="https://github.com/HugoAndreL/CastleDecks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=CastleDecks&theme=dracula" alt="CastleDecks" />
+  </a>
+    <a href="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=Filmes_Api&theme=dracula">
   </a>
 </div>
 <div align="center">
@@ -98,5 +110,5 @@
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAndreL&theme=dracula&langs_count=6&layout=compact" alt="Most usage language" />
 </div>
 <div>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=708090&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=708090&section=footer" />
 </div>
