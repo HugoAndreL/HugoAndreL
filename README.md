@@ -19,6 +19,7 @@
     </a>
   </h2>
 </div>
+
 <div>
   <h2>
     <!-- Effect by Typing SVG https://readme-typing-svg.demolab.com/demo/ -->
@@ -36,6 +37,7 @@
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
 </div>
+		
 <div>
   <h2>
     <!-- Effect by Typing SVG https://readme-typing-svg.demolab.com/demo/ -->
@@ -60,6 +62,7 @@
     </li>
    </ul>
 </div>
+		
 <div>
   <h3>In this repository we have projects made in:</h3>
   <ul>
@@ -85,6 +88,7 @@
     </li>
   </ul>
 </div>
+		
 <div align="center">
   <h2>
     <!-- Effect by Typing SVG https://readme-typing-svg.demolab.com/demo/ -->
@@ -105,6 +109,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=Filmes_Api&theme=dracula" alt="Filmes_Api" />
   </a>
 </div>
+
 <div align="center">
   <h2>
     <!-- Effect by Typing SVG https://readme-typing-svg.demolab.com/demo/ -->
@@ -114,6 +119,7 @@
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=HugoAndreL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact&rank_icon=github" />
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAndreL&theme=dracula&langs_count=6&layout=compact" alt="Most usage language" />
 </div>
+		
 <div align="center">
   <h2>  
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=%F0%9F%94%97+Links" alt="Typing SVG" />
@@ -121,13 +127,16 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=FF0000&background=4D5864&center=true&vCenter=true&width=435&lines=Effect+by+Typing+SVG" alt="Typing SVG" />
   </a>
+	<hr />
   <h3>
     📄🌐📊 Emoji 🗃️🔗:
   </h3>
-  `Windows` + `.`
+	<h4><b>Use this command:</b></h4>
+	<kbd>Windows</kbd> + <kbd>.</kbd>
+	<hr />
 </div>
+		
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=708090&section=footer" />
 </div>
-
 
