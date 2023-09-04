@@ -125,24 +125,24 @@
 	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=%F0%9F%94%97+Links&fontSize=20" alt="Links" />
   <ul>
 	<li>
-		<a href="https://git.io/typing-svg">
-    			<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=2f81e9&background=4D5864&center=true&vCenter=true&width=435&lines=Typing+SVG" alt="Typing SVG" align="center" />
-  		</a>
-	</li>
-	<li>
-		📄📊 <a href="https://giphy.com/" target="_blank" align="center">Giphy</a> 🗃️🔗
-  	</li>
-	<li>
 		<a href="https://github.com/kyechan99/capsule-render" target="_blank" align="center">Capsule Render</a>
 	</li>
 	<li>
+		📄📊 <a href="https://www.webfx.com/tools/emoji-cheat-sheet/" target="_blank" align="center">Emoji Cheat Sheet</a> 🗃️🔗
+  	</li>
+	<li>
 		<a href="https://giphy.com/" target="_blank" align="center">Giphy</a>
+	</li>
+	<li>
+		<a href="https://github-readme-stats.vercel.app/" target="_blank" align="center">Github Readme Stats</a>
 	</li>
 	<li>
 		<a href="https://github.com/Ileriayo/markdown-badges#badges" target="_blank" align="center">Markdown badges</a>
 	</li>
 	<li>
-		<a href="https://github-readme-stats.vercel.app/" target="_blank" align="center">Github Readme Stats</a>
+		<a href="https://git.io/typing-svg">
+    			<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=2f81e9&background=4D5864&center=true&vCenter=true&width=435&lines=Typing+SVG" alt="Typing SVG" align="center" />
+  		</a>
 	</li>
   </ul>
 </div>
