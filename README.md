@@ -1,6 +1,7 @@
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=708090&section=header" />
 </div>
+
 <div align="center">
   <h1>
     <img src="https://i.giphy.com/media/gM5qFksULw54NMWyry/giphy.webp" width="160">
@@ -122,18 +123,31 @@
 		
 <div align="center">
   <h2>  
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=%F0%9F%94%97+Links" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=%F0%9F%94%97+Links" alt="Links" />
   </h2>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=FF0000&background=4D5864&center=true&vCenter=true&width=435&lines=Effect+by+Typing+SVG" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=2f81e9&background=4D5864&center=true&vCenter=true&width=435&lines=Typing+SVG" alt="Typing SVG" />
   </a>
-	<hr />
-  <h3>
-    📄🌐📊 Emoji 🗃️🔗:
-  </h3>
-	<h4><b>Use this command:</b></h4>
-	<kbd>Windows</kbd> + <kbd>.</kbd>
-	<hr />
+<hr />
+<h3>
+	📄📊 <a href="https://giphy.com/" target="_blank">Giphy</a> 🗃️🔗
+</h3>
+<hr />
+<h3>
+	<a href="https://github.com/kyechan99/capsule-render" target="_blank">Capsule Render</a>
+</h3>
+<hr />
+<h3>
+	<a href="https://giphy.com/" target="_blank">Giphy</a>
+</h3>
+<hr />
+<h3>
+	<a href="https://github.com/Ileriayo/markdown-badges#badges" target="_blank">Markdown badges</a>
+</h3>
+<hr />
+<h3>
+	<a href="https://github-readme-stats.vercel.app/" target="_blank">Github Readme Stats</a>
+</h3>
 </div>
 		
 <div>
