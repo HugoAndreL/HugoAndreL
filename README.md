@@ -14,11 +14,9 @@
 	</div>
 	<div>
 	  <h2>
-		<a href="#PCD-MEDICAL-REPORT">
-		    <a href="https://1drv.ms/b/s!ArdSEuakst-UmvAm2WB6cg7UxjuRqg?e=uQssLA" target="_blank">
-		      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2f81e9&vCenter=true&width=500&lines=%F0%9F%93%84+PCD+MEDICAL+REPORT%3A" alt="Typing SVG" />
-		    </a>
-		</a>
+	    <a href="https://1drv.ms/b/s!ArdSEuakst-UmvAm2WB6cg7UxjuRqg?e=uQssLA" target="_blank">
+	      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2f81e9&vCenter=true&width=500&lines=%F0%9F%93%84+PCD+MEDICAL+REPORT%3A" alt="Typing SVG" />
+	    </a>
 	  </h2>
 	</div>
 	<div>
