@@ -121,33 +121,30 @@
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAndreL&theme=dracula&langs_count=6&layout=compact" alt="Most usage language" />
 </div>
 		
-<div align="center">
-  <h2>  
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=%F0%9F%94%97+Links" alt="Links" />
-  </h2>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=2f81e9&background=4D5864&center=true&vCenter=true&width=435&lines=Typing+SVG" alt="Typing SVG" />
-  </a>
-<hr />
-<h3>
-	📄📊 <a href="https://giphy.com/" target="_blank">Giphy</a> 🗃️🔗
-</h3>
-<hr />
-<h3>
-	<a href="https://github.com/kyechan99/capsule-render" target="_blank">Capsule Render</a>
-</h3>
-<hr />
-<h3>
-	<a href="https://giphy.com/" target="_blank">Giphy</a>
-</h3>
-<hr />
-<h3>
-	<a href="https://github.com/Ileriayo/markdown-badges#badges" target="_blank">Markdown badges</a>
-</h3>
-<hr />
-<h3>
-	<a href="https://github-readme-stats.vercel.app/" target="_blank">Github Readme Stats</a>
-</h3>
+<div align="center"> 
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=%F0%9F%94%97+Links&fontSize=20" alt="Links" />
+  <ul>
+	<li>
+		<a href="https://git.io/typing-svg">
+    			<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=2f81e9&background=4D5864&center=true&vCenter=true&width=435&lines=Typing+SVG" alt="Typing SVG" align="center" />
+  		</a>
+	</li>
+	<li>
+		📄📊 <a href="https://giphy.com/" target="_blank" align="center">Giphy</a> 🗃️🔗
+  	</li>
+	<li>
+		<a href="https://github.com/kyechan99/capsule-render" target="_blank" align="center">Capsule Render</a>
+	</li>
+	<li>
+		<a href="https://giphy.com/" target="_blank" align="center">Giphy</a>
+	</li>
+	<li>
+		<a href="https://github.com/Ileriayo/markdown-badges#badges" target="_blank" align="center">Markdown badges</a>
+	</li>
+	<li>
+		<a href="https://github-readme-stats.vercel.app/" target="_blank" align="center">Github Readme Stats</a>
+	</li>
+  </ul>
 </div>
 		
 <div>
