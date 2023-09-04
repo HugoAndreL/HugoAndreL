@@ -4,10 +4,10 @@
 
 <div align="center">
   <h1>
-    <img src="https://i.giphy.com/media/gM5qFksULw54NMWyry/giphy.webp" width="160">
+    <img src="https://i.giphy.com/media/gM5qFksULw54NMWyry/giphy.webp" width="100" align="center" />
     <!-- Effect by Typing SVG https://readme-typing-svg.demolab.com/demo/ -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&width=600&height=100&lines=Hello%2C+I'm+Hugo+Andr%C3%A9;and+I+work+with+technology" alt="Typing SVG" />
-    <img src="https://i.giphy.com/media/XbZ1FZ4xtzDKE/giphy.webp" width="160">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&width=600&height=100&lines=Hello%2C+I'm+Hugo+Andr%C3%A9;and+I+work+with+technology" alt="Typing SVG" align="center" />
+    <img src="https://i.giphy.com/media/XbZ1FZ4xtzDKE/giphy.webp" width="100" align="center" />
   </h1>
 </div>
 <div align="center">
