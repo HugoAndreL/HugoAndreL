@@ -90,8 +90,8 @@
 	  <a href="https://github.com/HugoAndreL/HugoAndreL">
 	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=HugoAndreL&theme=dracula" alt="HugoAndreL" />
 	  </a>
-	  <a href="https://github.com/HugoAndreL/Sistema-ECommerce">
-	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=Sistema-ECommerce&theme=dracula" alt="Sistema-ECommerce" />
+	  <a href="https://github.com/HugoAndreL/Sistema_ECommerce">
+	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=Sistema_ECommerce&theme=dracula" alt="Sistema-ECommerce" />
 	  </a>
 	  <br />
 	  <a href="https://github.com/HugoAndreL/CastleDecks">
