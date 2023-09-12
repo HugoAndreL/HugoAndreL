@@ -91,7 +91,7 @@
 	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=HugoAndreL&theme=dracula" alt="HugoAndreL" />
 	  </a>
 	  <a href="https://github.com/HugoAndreL/PDV_API">
-	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=PDV_API&theme=dracula" alt="PDV_API" />
+	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=Sistema-ECommerce&theme=dracula" alt="PDV_API" />
 	  </a>
 	  <br />
 	  <a href="https://github.com/HugoAndreL/CastleDecks">
@@ -117,7 +117,7 @@
 		</li>
 		<li>
 			📄📊 <a href="https://www.webfx.com/tools/emoji-cheat-sheet/" target="_blank" align="center">Emoji Cheat Sheet</a> 🗃️🔗
-	  	</li>
+		</li>
 		<li>
 			<a href="https://giphy.com/" target="_blank" align="center">Giphy</a>
 		</li>
@@ -129,8 +129,8 @@
 		</li>
 		<li>
 			<a href="https://git.io/typing-svg">
-	    			<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=2f81e9&center=true&vCenter=true&width=435&lines=Typing+SVG" alt="Typing SVG" align="center" />
-	  		</a>
+					<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=2f81e9&center=true&vCenter=true&width=435&lines=Typing+SVG" alt="Typing SVG" align="center" />
+			</a>
 		</li>
 	  </ul>
 	</div>		
