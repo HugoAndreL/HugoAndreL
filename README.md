@@ -28,7 +28,7 @@
 	  </a>
 	  <a href="https://wa.me/5511930114879" target="_blank"> 
 	    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-	  <a href="https://instagram.com/hugoandrelucena/" target=_blank>
+	  <a href="https://www.linkedin.com/in/hugo-andr%C3%A9-lucena-968a42207/" target=_blank>
 	    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" >
 	  </a>
 	  <a href="https://pt.stackoverflow.com/users/260334/hugo-andr%c3%a9" target="_blank">
