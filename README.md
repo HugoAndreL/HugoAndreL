@@ -91,7 +91,7 @@
 	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=HugoAndreL&theme=dracula" alt="HugoAndreL" />
 	  </a>
 	  <a href="https://github.com/HugoAndreL/PDV_API">
-	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=Sistema-ECommerce&theme=dracula" alt="PDV_API" />
+	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=Sistema-ECommerce&theme=dracula" alt="Sistema-ECommerce" />
 	  </a>
 	  <br />
 	  <a href="https://github.com/HugoAndreL/CastleDecks">
