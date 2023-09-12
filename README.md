@@ -90,7 +90,7 @@
 	  <a href="https://github.com/HugoAndreL/HugoAndreL">
 	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=HugoAndreL&theme=dracula" alt="HugoAndreL" />
 	  </a>
-	  <a href="https://github.com/HugoAndreL/PDV_API">
+	  <a href="https://github.com/HugoAndreL/Sistema-ECommerce">
 	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=Sistema-ECommerce&theme=dracula" alt="Sistema-ECommerce" />
 	  </a>
 	  <br />
@@ -106,7 +106,7 @@
 	    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%93%8A+Github+Stats%3A" alt="Typing SVG" /></a>
 	  </h2>
 	  <a href="https://github.com/HugoAndreL" />
-	  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=HugoAndreL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact&rank_icon=github" />
+	  	<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=HugoAndreL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact&rank_icon=github" />
 	  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAndreL&theme=dracula&langs_count=6&layout=compact" alt="Most usage language" />
 	  </div>			
 	<div align="center"> 
