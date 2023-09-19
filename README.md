@@ -39,7 +39,7 @@
 	  <h2>
 	    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=%F0%9F%8E%93+Studying%3A" alt="Typing SVG" />
 	  </h2>
-	  <ul>
+	  <ul type="square">
 	    <li>
 	      <p>Superior in Systems Analysis and Development<p>
 	      <p>
@@ -60,7 +60,7 @@
 	</div>	
 	<div>
 	  <h3>In this repository we have projects made in:</h3>
-	  <ul>
+	  <ul type="square">
 	    <li>
 	      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	      <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -111,7 +111,7 @@
 	  </div>			
 	<div align="center"> 
 		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=%F0%9F%94%97+Links&fontSize=20" alt="Links" />
-	  <ul>
+	  <ul type="square">
 		<li>
 			<a href="https://github.com/kyechan99/capsule-render" target="_blank" align="center">Capsule Render</a>
 		</li>
