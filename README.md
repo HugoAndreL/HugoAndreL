@@ -47,7 +47,7 @@
 	          <img align="center" src="https://logospng.org/download/cruzeiro-do-sul/logo-cruzeiro-do-sul-estrela-1024.png" width="50" height="50" />
 	          Universidade Cruzeiro do Sul
 	        </a>
-	        <p> ✅Completed 02/21 to 12/23</p>
+	        <p>✅ Completed 02/21 to 12/23</p>
 	      </p>
 	      <p>
 	        And other courses.
@@ -59,7 +59,9 @@
 	   </ul>
 	</div>	
 	<div>
-	  <h3>In this repository we have projects made in:</h3>
+	  <h3>
+	  	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%93%A5+Project+made+in%3A" alt="Typing SVG" />
+	  </h3>
 	  <ul type="square">
 	    <li>
 	      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -116,7 +118,7 @@
 			<a href="https://github.com/kyechan99/capsule-render" target="_blank" align="center">Capsule Render</a>
 		</li>
 		<li>
-			📄📊 <a href="https://www.webfx.com/tools/emoji-cheat-sheet/" target="_blank" align="center">Emoji Cheat Sheet</a> 🗃️🔗
+			📄📊✅ <a href="https://www.webfx.com/tools/emoji-cheat-sheet/" target="_blank" align="center">Emoji Cheat Sheet</a> 📥🗃️🔗
 		</li>
 		<li>
 			<a href="https://giphy.com/" target="_blank" align="center">Giphy</a>
