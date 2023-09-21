@@ -108,8 +108,8 @@
 	    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%93%8A+Github+Stats%3A" alt="Typing SVG" /></a>
 	  </h2>
 	  <a href="https://github.com/HugoAndreL" />
-	  	<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=HugoAndreL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact&rank_icon=github" />
-	  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAndreL&theme=dracula&langs_count=6&layout=compact" alt="Most usage language" />
+	  	<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula&rank_icon=github" />
+	  	<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAndreL&theme=dracula&langs_count=6&layout=compact" alt="Most usage language" />
 	  </div>			
 	<div align="center"> 
 		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=%F0%9F%94%97+Links&fontSize=20" alt="Links" />
@@ -131,7 +131,7 @@
 		</li>
 		<li>
 			<a href="https://git.io/typing-svg">
-					<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=2f81e9&center=true&vCenter=true&width=435&lines=Typing+SVG" alt="Typing SVG" align="center" />
+				<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=2f81e9&center=true&vCenter=true&width=435&lines=Typing+SVG" alt="Typing SVG" align="center" />
 			</a>
 		</li>
 	  </ul>
