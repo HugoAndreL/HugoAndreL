@@ -100,7 +100,7 @@
 	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=CastleDecks&theme=dracula" alt="CastleDecks" />
 	  </a>
 	  <a href="https://github.com/HugoAndreL/Exercicios">
-	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=Exercicios&theme=dracula" alt="Filmes_Api" />
+	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=Exercicios&theme=dracula" alt="Exercicios" />
 	  </a>
 	</div>
 	<div align="center">
