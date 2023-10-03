@@ -99,8 +99,8 @@
 	  <a href="https://github.com/HugoAndreL/CastleDecks">
 	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=CastleDecks&theme=dracula" alt="CastleDecks" />
 	  </a>
-	  <a href="https://github.com/HugoAndreL/Exercicios">
-	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=Exercicios&theme=dracula" alt="Exercicios" />
+	  <a href="https://github.com/HugoAndreL/Exercicios-Academia-DotNet2023">
+	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=Exercicios-Academia-DotNet2023&theme=dracula" alt="Exercicios-Academia-DotNet2023" />
 	  </a>
 	</div>
 	<div align="center">
