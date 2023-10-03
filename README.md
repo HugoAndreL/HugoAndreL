@@ -37,7 +37,7 @@
 	</div>	
 	<div>
 	  <h2>
-	    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=%F0%9F%8E%93+Studying%3A" alt="Typing SVG" />
+	    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=%F0%9F%8E%93+Study%3A" alt="Typing SVG" />
 	  </h2>
 	  <ul type="square">
 	    <li>
