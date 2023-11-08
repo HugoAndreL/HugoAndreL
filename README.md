@@ -15,13 +15,13 @@
 	<div>
 	  <h2>
 	    <a href="https://1drv.ms/b/s!ArdSEuakst-UmvAm2WB6cg7UxjuRqg?e=uQssLA" target="_blank">
-	      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2f81e9&vCenter=true&width=500&lines=%F0%9F%93%84+PCD+MEDICAL+REPORT%3A" alt="Typing SVG" />
+	      PCD Medical Report 📄:
 	    </a>
 	  </h2>
 	</div>
 	<div>
 	  <h2>
-	    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=Social+%F0%9F%8C%90" alt="Typing SVG" />
+	    Social 🌐 :
 	  </h2>
 	  <a href="https://instagram.com/hugoandrelucena/" target=_blank>
 	    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
@@ -37,7 +37,7 @@
 	</div>	
 	<div>
 	  <h2>
-	    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=%F0%9F%8E%93+Study%3A" alt="Typing SVG" />
+	    Study 🎓:
 	  </h2>
 	  <ul type="square">
 	    <li>
@@ -59,9 +59,9 @@
 	   </ul>
 	</div>	
 	<div>
-	  <h3>
-	  	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%93%A5+Project+made+in%3A" alt="Typing SVG" />
-	  </h3>
+	  <h2>
+	  	Projects made in 📥:
+	  </h2>
 	  <ul type="square">
 	    <li>
 	      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -87,7 +87,7 @@
 	</div>		
 	<div align="center">
 	  <h2>
-	    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%97%83%EF%B8%8F+Latest+repositories" alt="Typing SVG" />
+	    Lastest Repositeries 🗃️:
 	  </h2>
 	  <a href="https://github.com/HugoAndreL/HugoAndreL">
 	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=HugoAndreL&theme=dracula" alt="HugoAndreL" />
@@ -105,14 +105,14 @@
 	</div>
 	<div align="center">
 	  <h2>
-	    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%93%8A+Github+Stats%3A" alt="Typing SVG" /></a>
+		Github stats 📊:
 	  </h2>
 	  <a href="https://github.com/HugoAndreL" />
-	  	<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula&rank_icon=github" />
+	  	<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=HugoAndreL&show_icons=true&theme=dracula&rank_icon=github" />
 	  	<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAndreL&theme=dracula&langs_count=6&layout=compact" alt="Most usage language" />
 	  </div>			
 	<div align="center"> 
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=%F0%9F%94%97+Links&fontSize=20" alt="Links" />
+		<h2>Links 🔗:</h2>
 	  <ul type="square">
 		<li>
 			<a href="https://github.com/kyechan99/capsule-render" target="_blank" align="center">Capsule Render</a>
