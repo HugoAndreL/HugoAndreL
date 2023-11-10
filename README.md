@@ -48,6 +48,7 @@
 	          Universidade Cruzeiro do Sul
 	        </a>
 	        <p>✅ Completed 02/21 to 12/23</p>
+		<a href="https://1drv.ms/b/s!ArdSEuakst-Ui8QyEzOLq00DLhLB6g?e=PLSoz6">Historico</a>
 	      </p>
 	      <p>
 	        And other courses.
