@@ -93,16 +93,16 @@
 	  <a href="https://github.com/HugoAndreL/HugoAndreL">
 	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=HugoAndreL&theme=dracula" alt="HugoAndreL" />
 	  </a>
-	  <a href="https://github.com/HugoAndreL/ECommerce">
-	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=ECommerce&theme=dracula" alt="Sistema-ECommerce" />
+	  <a href="https://github.com/HugoAndreL/CastleDecks">
+	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=CastleDecks&theme=dracula" alt="CastleDecks" />
 	  </a>
 	  <br />
 	  <a href="https://github.com/HugoAndreL/Exercicios-Academia-DotNet2023">
 	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=Exercicios-Academia-DotNet2023&theme=dracula" alt="Exercicios-Academia-DotNet2023" />
 	  </a>
-	  <a href="https://github.com/HugoAndreL/CastleDecks">
-	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=CastleDecks&theme=dracula" alt="CastleDecks" />
-	  </a>
+		<a>
+			<img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=Desafios-Academia-DotNet2023&theme=dracula" alt="Desafios-Academia-DotNet2023" />
+		</a>
 	</div>
 	<div align="center">
 	  <h2>
