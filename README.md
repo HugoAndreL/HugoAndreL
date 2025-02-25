@@ -23,9 +23,6 @@
 	  <h2>
 	    Social 🌐 :
 	  </h2>
-	  <a href="https://instagram.com/hugoandrelucena/" target=_blank>
-	    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-	  </a>
 	  <a href="https://wa.me/5511930114879" target="_blank"> 
 	    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 	  <a href="https://www.linkedin.com/in/hugo-andre-lucena/" target=_blank>
