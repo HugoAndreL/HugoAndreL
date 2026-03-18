@@ -1,6 +1,6 @@
 <div font="Fira+Code">
 	<div>
-	  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=708090&section=header&text=HugoAndreL&fontSize=25&desc=Minha+Descrição&fontColor=FFFFFF&fontAlignY=25&descSize=15&descAlignY=45&descColor=00010D" />
+	  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=708090&section=header&text=HugoAndreL&fontSize=25&desc=My+Description&fontColor=FFFFFF&fontAlignY=25&descSize=15&descAlignY=45&descColor=00010D" />
 	</div>
 	<div align="center">
 	  <h1>
