@@ -14,7 +14,7 @@
 	</div>
 	<div>
 	  <h2>
-	    <a href="https://1drv.ms/b/s!ArdSEuakst-UmvAmq3DLdN31pvgN0A?e=IpmiEU" target="_blank">
+	    <a href="https://1drv.ms/b/c/94dfb2a4e61252b7/IQC3UhLmpLLfIICUJrgGAAAAAYVQzksEizwxCEvFvznw6ME?e=fVUMDv" target="_blank">
 	      PCD Medical Report 📄:
 	    </a>
 	  </h2>
@@ -37,6 +37,14 @@
 	    Study 🎓:
 	  </h2>
 	  <ul type="square">
+		<li>
+			<p>Pós in Software Engineering in Applied AI</p>
+			<a href="https://unipds.com.br/" target="_blank">
+				<img align="center" src="https://unipds.com.br/wp-content/uploads/2025/02/Group-1.png" width="50" height="50" />
+				Anhanguera - UNIPDS
+			</a>
+			<p>📚 Studiyng - Start 22/04/2026 and End prediction 21/04/2027</p>
+		</li>
 	    <li>
 	      <p>Superior in Systems Analysis and Development<p>
 	      <p>
