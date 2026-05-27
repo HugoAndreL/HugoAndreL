@@ -90,24 +90,6 @@
 	      <img align="center" alt="SQL Server" height="30" width="40" src="https://brandslogos.com/wp-content/uploads/images/microsoft-sql-server-logo.png" />
 	    </li>
 	  </ul>
-	</div>		
-	<div align="center">
-	  <h2>
-	    Lastest Repositeries 🗃️:
-	  </h2>
-	  <a href="https://github.com/HugoAndreL/HugoAndreL">
-	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=HugoAndreL&theme=dracula" alt="HugoAndreL" />
-	  </a>
-	  <a href="https://github.com/HugoAndreL/CastleDecks">
-	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=ProjetoFinal-Academia-DotNet2023&theme=dracula" alt="CastleDecks" />
-	  </a>
-	  <br />
-	  <a href="https://github.com/HugoAndreL/Exercicios-Academia-DotNet2023">
-	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=Exercicios-Academia-DotNet2023&theme=dracula" alt="Exercicios-Academia-DotNet2023" />
-	  </a>
-		<a>
-			<img src="https://github-readme-stats.vercel.app/api/pin/?username=HugoAndreL&repo=Desafios-Academia-DotNet2023&theme=dracula" alt="Desafios-Academia-DotNet2023" />
-		</a>
 	</div>
 	<div align="center">
 	  <h2>
