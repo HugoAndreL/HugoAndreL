@@ -14,7 +14,7 @@
 	</div>
 	<div>
 	  <h2>
-	    <a href="https://1drv.ms/b/c/94dfb2a4e61252b7/IQC3UhLmpLLfIICUJrgGAAAAAYVQzksEizwxCEvFvznw6ME?e=fVUMDv" target="_blank">
+	    <a href="https://1drv.ms/f/c/94dfb2a4e61252b7/IgCcHCya6vo0TpE00DEzPtaPAeNGNa_lv3AamY7iDSX7S7I?e=fGKaS3" target="_blank">
 	      PCD Medical Report 📄:
 	    </a>
 	  </h2>
