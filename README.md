@@ -24,12 +24,12 @@
 	    Social 🌐 :
 	  </h2>
 	  <a href="https://wa.me/5511930114879" target="_blank"> 
-	    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+	    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
 	  <a href="https://www.linkedin.com/in/hugo-andre-lucena/" target=_blank>
-	    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" >
+	    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" >
 	  </a>
 	  <a href="https://pt.stackoverflow.com/users/260334/hugo-andr%c3%a9" target="_blank">
-	    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+	    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" />
 	  </a>
 	</div>	
 	<div>
@@ -69,36 +69,25 @@
 	  	Projects made in 📥:
 	  </h2>
 	  <ul type="square">
+		<li>
+			<img align="center" alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+		</li>
+		<li>
+			<img align="center" alt="Google Gemini" src="https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white" />
+		</li>
 	    <li>
-	      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-	      <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	      <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	    </li>
-	    <li>
-	      <img  align="center" alt=".NET 5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />5
-	    </li>
-	    <li>
-	      <img  align="center" alt=".NET 6" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />6
+	      <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+	      <img align="center" alt="CSS" src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white">
+	      <img align="center" alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 	    </li>
 	     <li>
-	      <img  align="center" alt=".NET 7" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />7
+	      <img  align="center" alt=".NET" src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white" />
 	    </li>
 	    <li>
-	      <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-	    </li>
-	    <li>
-	      <img align="center" alt="SQL Server" height="30" width="40" src="https://brandslogos.com/wp-content/uploads/images/microsoft-sql-server-logo.png" />
+	      <img align="center" alt="SQL Server" src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 	    </li>
 	  </ul>
-	</div>
-	<div align="center">
-	  <h2>
-		Github stats 📊:
-	  </h2>
-	  <a href="https://github.com/HugoAndreL" />
-	  	<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=HugoAndreL&show_icons=true&theme=dracula&rank_icon=github" />
-	  	<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAndreL&theme=dracula&langs_count=6&layout=compact" alt="Most usage language" />
-	  </div>			
+	</div>	
 	<div align="center"> 
 		<h2>Links 🔗:</h2>
 	  <ul type="square">
